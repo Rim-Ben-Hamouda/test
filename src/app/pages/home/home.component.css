@@ -1,0 +1,58 @@
+.banner
+{background-image: url('../../../assets/smarthouse.jpg');
+    height: 700px;
+    position: relative;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.banner h1
+{color: aliceblue;
+font-size: 60px;
+}
+
+
+
+.content
+{position:absolute;
+    top: 200px;
+    left: 60px;
+    padding-left: 60px;
+}
+
+.content a
+{ text-decoration: none;
+    background-color: aliceblue;
+    color: rgb(56, 55, 55);
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+
+.smart
+{background-color: rgb(214, 212, 212);
+padding: 150px;
+}
+
+.about
+{background-color: rgb(169, 166, 166);
+padding: 150px;
+}
+
+
+.services
+{ background-color: rgb(181, 121, 31);
+padding: 10px 10px ;
+}
+
+.services h1
+{ color: black;}
+.services p
+{color: black;}
+
+.img-fluid{
+    height: 100px;
+}
